@@ -4,7 +4,7 @@ Module to manage meta tags and [Open Graph](http://ogp.me/) data based on [ui-ro
 
 ## Compatibility and dependencies
 
-Library has been tested with Angular 1.5.x and ui-router 0.2.x.
+Library has been tested with Angular 1.5.x and ui-router 0.3.x.
 
 ## Installation
 

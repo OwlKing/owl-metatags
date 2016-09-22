@@ -1,0 +1,22 @@
+{
+  "name": "owl-metatags",
+  "version": "0.1.0",
+  "homepage": "https://github.com/OwlKing/owl-metatags",
+  "authors": [
+    "OwlKing <owlking@gmx.com>"
+  ],
+  "description": "Module to manage meta tags and Open Graph data based on ui-router states. Its goal is to make building search engine and social platform friendly sites easier.",
+  "main": "owl-metatags.coffee",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "1.5.*",
+    "angular-ui-router": "0.3.*"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

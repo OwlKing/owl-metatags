@@ -117,4 +117,5 @@ owlMetatagsModule.directive 'owlMetatags', ['owlMetatags', (owlMetatags) ->
 
 owlMetatagsModule.run ['owlMetatags', (owlMetatags) ->
   owlMetatags.initialize()
+  return
 ]

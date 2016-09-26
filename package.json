@@ -1,7 +1,7 @@
 {
   "name": "owl-metatags",
   "version": "0.1.0",
-  "description": "Module to manage meta tags and Open Graph data based on ui-router states. Its goal is to make building search engine and social platform friendly sites easier.",
+  "description": "Module to manage meta tags and Open Graph data based on ui-router states.",
   "main": "dist/owl-metatags.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
